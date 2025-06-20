@@ -15,6 +15,17 @@
                 "sitepic": "..\/img\/logo\/bankobet.png"
             },
             {
+                "url": "https:\/\/casinoroys.ws\/hayalet",
+                "desc": [
+                    "½300 HOŞGELDİN BONUSU",
+                    "%30 KAYIP BONUSU"
+                ],
+                "site": "casinoroys",
+                "sort": "null",
+                "color": "#6d4f80",
+                "sitepic": "..\/img\/logo\/casinoroys.png"
+            },
+            {
                 "url": "https:\/\/tinyurl.com\/Hayaletcss",
                 "desc": [
                     "TRWİN500 KODU İLE 500 TL DENEME BONUSU",
@@ -26,79 +37,65 @@
                 "sitepic": "..\/img\/logo\/trwin.png"
             },
             {
-                "url": "https:\/\/cutt.ly\/OrlIeSlm",
+                "url": "https:\/\/partner.mersoaff.com\/imp\/mersobahis\/1704",
                 "desc": [
-                    "700 TL Nakit Deneme Bonusu!!",
-                    "%25 Sınırsız Geri Ödeme Bonusu!"
+                    "25 TL DENEME BONUSU",
+                    "%20 KAYIP BONUSU"
                 ],
-                "site": "slotin",
+                "site": "mersobahis",
                 "sort": "null",
-                "color": "#fbbb16",
-                "sitepic": "..\/img\/logo\/slotin.png"
+                "color": "#181818",
+                "sitepic": "..\/img\/logo\/mersobahis.png"
             },
             {
-                "url": "https://cutt.ly/qrbgswMR",
+                "url": "https:\/\/wanderer-wing.com\/s4518f2db",
                 "desc": [
-                    "DOSTLAR100 KODUYLA DENEME",
-                    "%30 CASİNO KAYIP BONUSU"
+                    "DENEME BONUSU",
+                    "KAYIP BONUSU"
                 ],
-                "site": "hepsibet",
+                "site": "alev",
                 "sort": "null",
-                "color": "#ffffff",
-                "sitepic": "..\/img\/logo\/hepsibet.png"
+                "color": "#600917",
+                "sitepic": "..\/img\/logo\/alev.png"
             },
             {
-                "url": "https:\/\/cutt.ly\/2425590",
+                "url": "https:\/\/shortbal.online\/aksiyoncasino",
                 "desc": [
-                    "%50 AMUSNET YATIRIM BONUSU",
-                    "%25 KAYIP BONUSU"
+                    "500₺ DENEME BONUSU",
+                    "%20 KAYIP BONUSU"
                 ],
-                "site": "betovis",
+                "site": "grandpasha",
                 "sort": "null",
-                "color": "#d10f2c",
-                "sitepic": "..\/img\/logo\/betovis.png"
+                "color": "#fff980",
+                "sitepic": "..\/img\/logo\/grandpasha.png"
             },
             {
-                "url": "https://cutt.ly/krbnnpHm",
+                "url": "https:\/\/kroyal.win\/t95de5461",
                 "desc": [
-                    "100₺ DENEME BONUSU",
-                    "%30 KAYIP BONUSU"
+                    "500 FREESPİN DENEME BONUSU",
+                    "%10 KAYIP BONUSU"
                 ],
-                "site": "betorspin",
+                "site": "meritking",
                 "sort": "null",
-                "color": "#fd5d25",
-                "sitepic": "..\/img\/logo\/betorspin.png"
-            },
-            {
-                "url": "https:\/\/t2m.io\/casinodostlarlogobahis",
-                "desc": [
-                    "333TL DENEME BONUSU",
-                    "%25 KAYIP BONUSU"
-                ],
-                "site": "logobahis",
-                "sort": "null",
-                "color": "#e4b370",
+                "color": "#ecb50d",
                 "sitepic": "..\/img\/logo\/logobahis.png"
             },
             {
-                "url": "https:\/\/betosferpartners.com\/links\/?btag=2408930",
+                "url": "https:\/\/cutt.ly\/2411878",
                 "desc": [
-                    "%35 CASİNO HOŞGELDİN BONUSU",
-                    "%20 KAYIP BONUSU"
+                    "250₺ DENEME BONUSU",
+                    "%30 KAYIP BONUSU"
                 ],
-                "site": "betosfer",
+                "site": "betovis",
                 "sort": "null",
-                "color": "#f8b22f",
-                "sitepic": "..\/img\/logo\/betosfer.png"
+                "color": "#98051b",
+                "sitepic": "..\/img\/logo\/betovis.png"
             }
         ],
         "social": {
-            "skype": "https:\/\/t.me\/sbh212",
-            "youtube": "https:\/\/www.youtube.com\/@",
-            "telegram": "https:\/\/t.me\/mehmetbeydostlar",
-            "instagram": "https:\/\/www.instagram.com\/casinodostlar"
+            "telegram": "https:\/\/t.me\/HAYALET7777",
         },
-        "cdn_url": "https:\/\/semhkaramn.github.io\/Dostlar\/img\/logo\/",
+        "cdn_url": "https:\/\/semhkaramn.github.io\/hayalet\/img\/logo\/",
         "is_slider": true,
         "background": null,
         "categories": [
@@ -110,7 +107,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "betjuve",
+                        "site": "bankobet",
                         "sort": "1"
                     }
                 ]
@@ -123,7 +120,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "hepsibet",
+                        "site": "mersobahis",
                         "sort": "1"
                     }
                 ]
@@ -133,22 +130,22 @@
                 "name": "4 animasyonlu siteler",
                 "sites": [
                     {
-                        "site": "turkishvegas",
+                        "site": "trwin",
                         "sort": "1",
                         "bg": ".jpg"
                     },
                     {
-                        "site": "betsat",
+                        "site": "grandpasha",
                         "sort": "2",
                         "bg": "2.jpg"
                     },
                     {
-                        "site": "superbetin",
+                        "site": "casinoroys",
                         "sort": "3",
                         "bg": "3.jpg"
                     },
                     {
-                        "site": "turkbet",
+                        "site": "bankobet",
                         "sort": "4",
                         "bg": "4.jpg"
                     }
@@ -162,19 +159,19 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "bethand",
+                        "site": "mersobahis",
                         "sort": "1"
                     },
                     {
-                        "site": "betjuve",
+                        "site": "betovis",
                         "sort": "2"
                     },
                     {
-                        "site": "nerobet",
+                        "site": "alev",
                         "sort": "3"
                     },
                     {
-                        "site": "hepsibet",
+                        "site": "meritking",
                         "sort": "4"
                     }
                 ]
@@ -187,7 +184,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "bethand",
+                        "site": "betovis",
                         "sort": "3"
                     }
                 ]
@@ -200,7 +197,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "bethand",
+                        "site": "trwin",
                         "sort": "1"
                     }
                 ]
