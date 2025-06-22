@@ -26,17 +26,6 @@
                 "sitepic": "..\/img\/logo\/casinoroys.png"
             },
             {
-                "url": "https:\/\/tinyurl.com\/Hayaletcss",
-                "desc": [
-                    "TRWİN500 KODU İLE 500 TL DENEME BONUSU",
-                    "%30 KAYIP BONUSU"
-                ],
-                "site": "trwin",
-                "sort": "null",
-                "color": "#fbbb16",
-                "sitepic": "..\/img\/logo\/trwin.png"
-            },
-            {
                 "url": "https:\/\/partner.mersoaff.com\/imp\/mersobahis\/1704",
                 "desc": [
                     "25 TL DENEME BONUSU",
@@ -131,11 +120,6 @@
                 "name": "4 animasyonlu siteler",
                 "sites": [
                     {
-                        "site": "trwin",
-                        "sort": "1",
-                        "bg": ".jpg"
-                    },
-                    {
                         "site": "mersobahis",
                         "sort": "2",
                         "bg": "2.jpg"
@@ -185,7 +169,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "trwin",
+                        "site": "mersobahis",
                         "sort": "3"
                     }
                 ]
@@ -198,7 +182,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "trwin",
+                        "site": "mersobahis",
                         "sort": "1"
                     }
                 ]
