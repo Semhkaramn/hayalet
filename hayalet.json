@@ -79,6 +79,17 @@
                 "sort": "null",
                 "color": "#98051b",
                 "sitepic": "..\/img\/logo\/betovis.png"
+            },
+            {
+                "url": "https:\/\/t2m.co\/Hayalet",
+                "desc": [
+                    "500₺ DENEME BONUSU",
+                    "%100 HOŞ GELDİN BONUSU"
+                ],
+                "site": "bahisen",
+                "sort": "null",
+                "color": "#3173da",
+                "sitepic": "..\/img\/logo\/bahisen.png"
             }
         ],
         "social": {
@@ -110,7 +121,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "mersobahis",
+                        "site": "bahisen",
                         "sort": "1"
                     }
                 ]
@@ -120,7 +131,7 @@
                 "name": "4 animasyonlu siteler",
                 "sites": [
                     {
-                        "site": "mersobahis",
+                        "site": "bahisen",
                         "sort": "2",
                         "bg": "2.jpg"
                     },
@@ -131,6 +142,11 @@
                     },
                     {
                         "site": "bankobet",
+                        "sort": "4",
+                        "bg": "4.jpg"
+                    },
+                    {
+                        "site": "mersobahis",
                         "sort": "4",
                         "bg": "4.jpg"
                     }
@@ -169,7 +185,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "mersobahis",
+                        "site": "bahisen",
                         "sort": "3"
                     }
                 ]
@@ -182,20 +198,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "mersobahis",
-                        "sort": "1"
-                    }
-                ]
-            },
-            {
-                "id": "1740530090501",
-                "svg": null,
-                "grid": "1",
-                "name": "VIPSITELER \u00d6ZEL",
-                "sort": "1",
-                "sites": [
-                    {
-                        "site": "casinomhub",
+                        "site": "bahisen",
                         "sort": "1"
                     }
                 ]
