@@ -90,6 +90,17 @@
                 "sort": "null",
                 "color": "#3173da",
                 "sitepic": "..\/img\/logo\/bahisen.png"
+            },
+            {
+                "url": "https://cutt.ly/evahayalet",
+                "desc": [
+                    "222₺ DENEME BONUSU",
+                    "%50 İLK YATIRIMA ÖZEL NAKİT"
+                ],
+                "site": "evabet",
+                "sort": "null",
+                "color": "#ffe400",
+                "sitepic": "..\/img\/logo\/evabet.png"
             }
         ],
         "social": {
@@ -108,7 +119,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "bankobet",
+                        "site": "evabet",
                         "sort": "1"
                     }
                 ]
@@ -131,7 +142,7 @@
                 "name": "4 animasyonlu siteler",
                 "sites": [
                     {
-                        "site": "bahisen",
+                        "site": "evabet",
                         "sort": "2",
                         "bg": "2.jpg"
                     },
@@ -141,7 +152,7 @@
                         "bg": "3.jpg"
                     },
                     {
-                        "site": "bankobet",
+                        "site": "bahisen",
                         "sort": "4",
                         "bg": "4.jpg"
                     },
@@ -185,7 +196,7 @@
                 "sort": "1",
                 "sites": [
                     {
-                        "site": "bahisen",
+                        "site": "evabet",
                         "sort": "3"
                     }
                 ]
